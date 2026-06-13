@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm Fathi Ahmet!
+#  Hi there, I'm Fathi Ahmet!
 
 <div align="center">
 
-### 🚀 Full-Stack Developer | Flutter Developer
+###  Full-Stack Developer | Flutter Developer
 
 **Passionate full-stack developer with expertise in building scalable web and mobile applications. I love turning ideas into elegant, user-friendly solutions.**
 
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ### 📊 Student Expenses Tracker
 A comprehensive expense tracking application designed for students to manage their finances efficiently.
@@ -66,11 +66,11 @@ A full-featured library management system for organizing books, members, and len
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
-- 🌐 **Learning AWS cloud architecture** - Building scalable cloud solutions
-- 📱 **Building a mobile e-commerce app** - Full-stack mobile application with Flutter
-- 🏗️ **Exploring microservices** - Understanding distributed system architecture
+-  **Learning AWS cloud architecture** - Building scalable cloud solutions
+-  **Building a mobile e-commerce app** - Full-stack mobile application with Flutter
+-  **Exploring microservices** - Understanding distributed system architecture
 
 ---
 
