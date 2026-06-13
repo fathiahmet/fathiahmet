@@ -42,15 +42,20 @@
 
 ### 📊 Student Expenses Tracker
 A comprehensive expense tracking application designed for students to manage their finances efficiently.
-- **Tech Stack:** React, Node.js, Firebase, MongoDB
-- **Features:** Budget tracking, expense categorization, analytics dashboard
+- **Tech Stack:** Darr, Flutter, Firebase, Firestore
+- **Features:** Budget tracking, expense categorization, analytics dashboard,
 - [View Project](https://github.com/fathiahmet/student-expense-app.git) <!-- Add your GitHub repo link -->
 
 ### 📚 Library Management System
 A full-featured library management system for organizing books, members, and lending operations.
-- **Tech Stack:** Java, C++, MySQL, PostgreSQL
+- **Tech Stack:** Java
 - **Features:** Book catalog, member management, lending system, search functionality
-- [View Project](#) <!-- Add your GitHub repo link -->
+- [View Project](https://github.com/fathiahmet/Library-System.git) <!-- Add your GitHub repo link -->
+
+### weather App
+- **Tech stack:** Html, Css and JavaScript
+- **Features:** weather based on your current location, unit interchange °c and °f, 3-days weather forecast
+- .[View project](https://github.com/fathiahmet/weather-app.git) 
 
 ---
 
@@ -89,6 +94,8 @@ A full-featured library management system for organizing books, members, and len
 I'm always interested in collaborating on exciting projects and learning from the community.
 
 - **Twitter:** [@fathi_ahmet_](https://x.com/fathi_ahmet_)
+- **IG:** [@fathi_ahmet](https://Instagram.com/fathi_ahmet)
+- **telegram:** [@fathi_ahmet_21](t.me//fathi_ahmet_21)
 - **Open to:** Freelance projects, collaborations, and tech discussions
 
 ---
