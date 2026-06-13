@@ -44,7 +44,7 @@
 A comprehensive expense tracking application designed for students to manage their finances efficiently.
 - **Tech Stack:** React, Node.js, Firebase, MongoDB
 - **Features:** Budget tracking, expense categorization, analytics dashboard
-- [View Project](#) <!-- Add your GitHub repo link -->
+- [View Project](https://github.com/fathiahmet/student-expense-app.git) <!-- Add your GitHub repo link -->
 
 ### 📚 Library Management System
 A full-featured library management system for organizing books, members, and lending operations.
