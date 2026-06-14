@@ -1,4 +1,4 @@
-#  Hi there, I'm Fathi Ahmet!
+#  Hi there, I'm Fathi Ahmed
 
 <div align="center">
 
@@ -95,7 +95,8 @@ I'm always interested in collaborating on exciting projects and learning from th
 
 - **Twitter:** [@fathi_ahmet_](https://x.com/fathi_ahmet_)
 - **IG:** [@fathi_ahmet](https://Instagram.com/fathi_ahmet)
-- **telegram:** [@fathi_ahmet_21](https://t.me/fathi_21)
+- **telegram:** [@fathi_21](https://t.me/fathi_21)
+  
 - **Open to:** Freelance projects, collaborations, and tech discussions
 
 ---
