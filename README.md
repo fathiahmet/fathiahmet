@@ -42,7 +42,7 @@
 
 ### 📊 Student Expenses Tracker
 A comprehensive expense tracking application designed for students to manage their finances efficiently.
-- **Tech Stack:** Darr, Flutter, Firebase, Firestore
+- **Tech Stack:** Dart, Flutter, Firebase, Firestore
 - **Features:** Budget tracking, expense categorization, analytics dashboard,
 - [View Project](https://github.com/fathiahmet/student-expense-app.git) <!-- Add your GitHub repo link -->
 
