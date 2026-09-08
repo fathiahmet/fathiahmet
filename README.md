@@ -43,19 +43,19 @@
 ### 📊 Student Expenses Tracker
 A comprehensive expense tracking application designed for students to manage their finances efficiently.
 - **Tech Stack:** Dart, Flutter, Firebase, Firestore
-- **Features:** Budget tracking, expense categorization, analytics dashboard,
-- [View Project](https://github.com/fathiahmet/student-expense-app.git) <!-- Add your GitHub repo link -->
+- **Features:** Budget tracking, expense categorization, analytics dashboard
+- [View Project](https://github.com/fathiahmet/student-expense-app)
 
 ### 📚 Library Management System
 A full-featured library management system for organizing books, members, and lending operations.
 - **Tech Stack:** Java
 - **Features:** Book catalog, member management, lending system, search functionality
-- [View Project](https://github.com/fathiahmet/Library-System.git) <!-- Add your GitHub repo link -->
+- [View Project](https://github.com/fathiahmet/Library-System)
 
-### weather App
-- **Tech stack:** Html, Css and JavaScript
-- **Features:** weather based on your current location, unit interchange °c and °f, 3-days weather forecast
-- .[View project](https://github.com/fathiahmet/weather-app.git) 
+### 🌤️ Weather App
+- **Tech stack:** HTML, CSS and JavaScript
+- **Features:** Weather based on your current location, unit interchange °C and °F, 3-days weather forecast
+- [View Project](https://github.com/fathiahmet/weather-app)
 
 ---
 
@@ -63,9 +63,11 @@ A full-featured library management system for organizing books, members, and len
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathiahmet&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathiahmet&show_icons=true&theme=radical&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathiahmet&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathiahmet&theme=radical)
 
 </div>
 
@@ -94,20 +96,10 @@ A full-featured library management system for organizing books, members, and len
 I'm always interested in collaborating on exciting projects and learning from the community.
 
 - **Twitter:** [@fathi_ahmet_](https://x.com/fathi_ahmet_)
-- **IG:** [@fathi_ahmet](https://Instagram.com/fathi_ahmet)
-- **telegram:** [@fathi_21](https://t.me/fathi_21)
+- **Instagram:** [@fathi_ahmet](https://instagram.com/fathi_ahmet)
+- **Telegram:** [@fathi_21](https://t.me/fathi_21)
   
 - **Open to:** Freelance projects, collaborations, and tech discussions
-
----
-
-## 📊 Profile Stats
-
-<div align="center">
-
-![](https://komarev.com/ghpvc/?username=fathiahmet&color=blueviolet)
-
-</div>
 
 ---
 
