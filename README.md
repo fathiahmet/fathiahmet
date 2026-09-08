@@ -2,7 +2,7 @@
 
 <div align="center">
 
-###  Full-Stack Developer | Flutter Developer
+###  Full-Stack Developer | JavaScript Developer
 
 **Passionate full-stack developer with expertise in building scalable web and mobile applications. I love turning ideas into elegant, user-friendly solutions.**
 
