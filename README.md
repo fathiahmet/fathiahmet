@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Fathi Ahmed
+#  Hi, I'm Fathi Ahmed
 
 <div align="center">
 
