@@ -201,7 +201,7 @@ A full-stack **Student Management System** designed to manage students, teachers
 * 📱 Responsive interface
 
 **Repository:**
-[View StudentHub](https://github.com/fathiahmet/student-management-system)
+[View StudentHub](https://github.com/fathi-ahmet/student-management-system)
 
 ---
 
@@ -251,7 +251,7 @@ A responsive weather application built while strengthening my HTML, CSS, and Jav
 * 🌐 API integration
 * 📱 Responsive design
 
-[View Weather App](https://github.com/fathiahmet/weather-app)
+[View Weather App](https://github.com/fathi-ahmet/weather-app)
 
 ---
 
@@ -363,11 +363,11 @@ I'm interested in building applications that are:
 
 <div align="center">
 
-![Fathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathiahmet\&show_icons=true\&theme=radical\&hide_border=true)
+![Fathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathi-ahmet\&show_icons=true\&theme=radical\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathiahmet\&layout=compact\&theme=radical\&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fathi-ahmet\&layout=compact\&theme=radical\&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathiahmet\&theme=radical\&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=fathi-ahmet\&theme=radical\&hide_border=true)
 
 </div>
 
