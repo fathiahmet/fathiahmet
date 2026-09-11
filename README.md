@@ -46,11 +46,6 @@ A comprehensive expense tracking application designed for students to manage the
 - **Features:** Budget tracking, expense categorization, analytics dashboard
 - [View Project](https://github.com/fathiahmet/student-expense-app)
 
-### 📚 Library Management System
-A full-featured library management system for organizing books, members, and lending operations.
-- **Tech Stack:** Java
-- **Features:** Book catalog, member management, lending system, search functionality
-- [View Project](https://github.com/fathiahmet/Library-System)
 
 ### 🌤️ Weather App
 - **Tech stack:** HTML, CSS and JavaScript
